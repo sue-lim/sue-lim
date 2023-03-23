@@ -1,24 +1,17 @@
 ### Hi there 👋
 
-:ok_woman: I am Sue & I am Part of @SheCodesAu 2022 / 2023 Cohort along with 20+ other women, taking the dive into the world of Coding & Tech
+I am Sue & I am proud student :school_satchel: of SheCodes Australia, currently part of the 2022/2023 cohort, which includes over 20 women :woman: exploring the exciting world of coding and IT. Since my early days, I have had a passion for technology and have used VBA and HTML. 
 
-🔭 I’m currently learning many different languages including CSS, HTML, Python, Django, DRF, Restful APIs  ...
+In my current course, I am learning various languages such as HTML, CSS, Python, React, DRF, Restful APIs, JavaScript, and front-end deployment. I am thrilled to be on this journey, and it has only just begun!
+
+Growing up, I always enjoyed computers :computer:, but I thought I wasn't smart enough to fit into an industry dominated by men. However, I know that things are changing, and a balance of genders is crucial to better initiatives and decisions. 
+
+Join me on my journey, and feel free to check out my projects. 
+
+I welcome your feedback and suggestions as they are the only way we can improve.
 
 
- 📫 How to reach me: sue.plim@gmail.com
+
+📫 How to reach me: sue.plim@gmail.com
 😄 Pronouns: she/her :ok_woman:
 
-###
-<!--
-**sue-lim/sue-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 Part of @SheCodesAu 2022 / 2023 Cohort along with 20+ other women, taking the dive into the world of Coding & Tech
-
-- 🔭 I’m currently learning many different languages including CSS, HTML, Python, Django, DRF, Restful APIs  ...
-
-
-
-- 📫 How to reach me: sue.plim@gmail.com
-- 😄 Pronouns: she/her :ok_woman:
-
--->
