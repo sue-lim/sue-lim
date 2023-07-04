@@ -11,7 +11,7 @@ Join me on my journey, and feel free to check out my projects.
 I welcome your feedback and suggestions as they are the only way we can improve.
 
 
-
+Web Site - https://sue-lim.netlify.app/
 📫 How to reach me: sue.plim@gmail.com
 😄 Pronouns: she/her :ok_woman:
 
