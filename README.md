@@ -1,14 +1,11 @@
 ### Hi there 👋
+I am Sue & I am a proud student :school_satchel: of SheCodes Australia, currently part of the 2022/2023 cohort. I'm also pursuing a certificate in programming, diving into the exciting world of coding and IT alongside over 20 women :woman: blazing a trail in this field. Since my early days, I've harbored a passion for technology and have dabbled in VBA and HTML.
 
-I am Sue & I am proud student :school_satchel: of SheCodes Australia, currently part of the 2022/2023 cohort, which includes over 20 women :woman: exploring the exciting world of coding and IT. Since my early days, I have had a passion for technology and have used VBA and HTML. 
+In my ongoing coursework, I'm delving into various programming languages like HTML, CSS, Python, React, DRF, Restful APIs, JavaScript, and mastering front-end deployment via Fly & Netlify. This journey has just kicked off, and I couldn't be more thrilled!
 
-In my current course, I am learning various languages such as HTML, CSS, Python, React, DRF, Restful APIs, JavaScript, and front-end deployment via Fly & Netlify. I am thrilled to be on this journey, and it has only just begun!
+While growing up, my love for computers :computer: was strong, but I once believed I might not be suited for an industry predominantly led by men. Thankfully, times are changing, and I firmly believe a diverse gender balance is essential for driving innovative initiatives and making informed decisions.
 
-Growing up, I always enjoyed computers :computer:, but I thought I wasn't smart enough to fit into an industry dominated by men. However, I know that things are changing, and a balance of genders is crucial to better initiatives and decisions. 
-
-Join me on my journey, and feel free to check out my projects. 
-
-I welcome your feedback and suggestions as they are the only way we can improve.
+Come along on this journey with me, and feel free to explore my projects. Your feedback and suggestions are invaluable in my quest for improvement.
 
 
 Web Site - https://sue-lim.netlify.app/
